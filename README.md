@@ -1,5 +1,5 @@
 ## Hi there 👋
-Please visit the website to hear about a couple Catholic things!
+Please visit the Sitio Animus website to hear about a couple Catholic things!
 
 <!--
 **Sitio-Animus/sitio-animus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
